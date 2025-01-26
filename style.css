@@ -223,7 +223,7 @@ a{
 }
 .player{
     width:50%;
-    
+    padding-right: 20rem;
 }
 .controls{
     width: 25%;
